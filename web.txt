@@ -1,0 +1,10 @@
+Symmetrical Components Vizualization Project (Fall 2019): 
+This is a project where I used python to vizualize one of the most important concepts in Power Systems Engineering,
+The Method of Symmetrical Components. I Reccomend checking out my github repository for the project here: 
+
+This was a project I made for fun when on my Co-op with LES. Symmetrical Components is so important 
+because it helps engineers analyze faulted systems. Since I was in the protection and controls department, 
+this was very relevant to my job. I read some notes:  link   : and had a hard time understanding the theory.
+So I decided to use python to help vizualize/ prove that it works. my first program only worked for a 3-phase system.
+I remember being really suprised that I was able to make it in only a couple days and naturally I immeadiately asked
+myself this question, what if I could generalize it to any case.
